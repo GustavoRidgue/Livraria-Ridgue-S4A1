@@ -20,6 +20,7 @@ public class livrariaController {
     @PostMapping("/cadastrar")
     public String cadastrarLivro(livrariaModel livro) {
         service.cadastrarLivro(livro);
-        return "index";
+        return "resultado";
     }
 }
+
