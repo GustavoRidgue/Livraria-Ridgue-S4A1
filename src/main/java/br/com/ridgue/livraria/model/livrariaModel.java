@@ -22,6 +22,12 @@ public class livrariaModel {
     @Column
     private String descricao;
 
+    @Column
+    private LocalDate dataCriacao;
+
+    @Column
+    private Boolean ativo;
+
     public int getId() {
         return id;
     }
@@ -52,5 +58,21 @@ public class livrariaModel {
 
     public void setDescricao(String descricao) {
         this.descricao = descricao;
+    }
+
+    public LocalDate getDataCriacao() {
+        return dataCriacao;
+    }
+
+    public void setDataCriacao(LocalDate dataCriacao) {
+        this.dataCriacao = dataCriacao;
+    }
+
+    public Boolean getAtivo() {
+        return ativo;
+    }
+
+    public void setAtivo(Boolean ativo) {
+        this.ativo = ativo;
     }
 }

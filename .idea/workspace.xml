@@ -2,17 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ad2c503-52bc-4580-968c-4bc2dc8a93ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/listarLivros.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/buscarPorId.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/listarLivro.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/controller/livrariaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/controller/livrariaController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/model/livrariaModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/model/livrariaModel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/repository/livrariaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/repository/livrariaRepository.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/service/livrariaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/service/livrariaService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/resultado.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/controller/livrariaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/controller/livrariaController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/model/livrariaModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/model/livrariaModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/repository/livrariaRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/repository/livrariaRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/service/livrariaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/service/livrariaService.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,30 +82,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1580309887854">
+    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1580320601813">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1580309887854" />
+    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1580320601813" />
     <state x="299" y="105" width="814" height="585" key="FileChooserDialogImpl" timestamp="1580306073254">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
     <state x="299" y="105" width="814" height="585" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1580306073254" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1580310376356">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1580328829842">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580310376356" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1580310376356">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580328829842" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1580328829841">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580310376356" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1580310376355">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580328829841" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1580328829841">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580310376355" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1580310376356">
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580328829841" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1580328829842">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580310376356" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580328829842" />
     <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1580306081480">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
