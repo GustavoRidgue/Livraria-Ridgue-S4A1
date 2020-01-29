@@ -5,7 +5,9 @@ import br.com.ridgue.livraria.repository.livrariaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
- //Aqui, no service, a gnt coloca as regras de negocios:
+import java.time.LocalDate;
+
+//Aqui, no service, a gnt coloca as regras de negocios:
 @Service
 public class livrariaService {
 
@@ -14,5 +16,9 @@ public class livrariaService {
 
     public livrariaModel cadastrarLivro(livrariaModel livro) {
         return repository.save(livro);
+    }
+    public Iterable<livrariaModel> listarLivros(){
+         Iterable<livrariaModel> livros = repository.findAll();
+         return livros;
     }
 }

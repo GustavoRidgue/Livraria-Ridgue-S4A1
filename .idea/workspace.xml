@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9ad2c503-52bc-4580-968c-4bc2dc8a93ac" name="Default Changelist" comment="" />
+    <list default="true" id="9ad2c503-52bc-4580-968c-4bc2dc8a93ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/listarLivros.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/controller/livrariaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/controller/livrariaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/model/livrariaModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/model/livrariaModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/repository/livrariaRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/repository/livrariaRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/service/livrariaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/br/com/ridgue/livraria/service/livrariaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/resultado.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/controller/livrariaController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/controller/livrariaController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/model/livrariaModel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/model/livrariaModel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/service/livrariaService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/br/com/ridgue/livraria/service/livrariaService.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,17 +26,27 @@
         <option value="Kotlin File" />
         <option value="Class" />
         <option value="Interface" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1WzDdhHEsqlB15IYujz1Hycucnl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
   <component name="RunManager">
@@ -60,25 +83,37 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1580147708578">
+    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser" timestamp="1580309887854">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1580147708578" />
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1580152943801">
+    <state x="524" y="83" width="374" height="626" key="#com.intellij.ide.util.MemberChooser/67.27.1299.741@67.27.1299.741" timestamp="1580309887854" />
+    <state x="299" y="105" width="814" height="585" key="FileChooserDialogImpl" timestamp="1580306073254">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580152943801" />
-    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1580152943801">
+    <state x="299" y="105" width="814" height="585" key="FileChooserDialogImpl/67.27.1299.741@67.27.1299.741" timestamp="1580306073254" />
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom" timestamp="1580310376356">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580152943801" />
-    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1580152943800">
+    <state width="1253" height="175" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1580310376356" />
+    <state width="1253" height="175" key="GridCell.Tab.0.center" timestamp="1580310376356">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580152943800" />
-    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1580152943801">
+    <state width="1253" height="175" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1580310376356" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left" timestamp="1580310376355">
       <screen x="67" y="27" width="1299" height="741" />
     </state>
-    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580152943801" />
+    <state width="1253" height="175" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1580310376355" />
+    <state width="1253" height="175" key="GridCell.Tab.0.right" timestamp="1580310376356">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="175" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1580310376356" />
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor" timestamp="1580306081480">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="199" y="27" width="1024" height="741" key="SettingsEditor/67.27.1299.741@67.27.1299.741" timestamp="1580306081480" />
+    <state x="67" y="100" width="1289" height="592" key="new project wizard" timestamp="1580215844170">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="67" y="100" width="1289" height="592" key="new project wizard/67.27.1299.741@67.27.1299.741" timestamp="1580215844170" />
   </component>
 </project>

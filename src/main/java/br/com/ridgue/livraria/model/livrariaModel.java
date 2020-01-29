@@ -1,6 +1,7 @@
 package br.com.ridgue.livraria.model;
 
 import javax.persistence.*;
+import java.time.LocalDate;
 
 @Entity
 @Table(name = "Livro")
